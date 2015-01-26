@@ -13,4 +13,4 @@ Gameplay Instructions
 Browse webpage using web browser.
 
 Controls
-- Keyboard & mouse
+- Keyboard & mouse 
